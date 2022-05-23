@@ -6,3 +6,9 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
+
+:root {
+    --background-color: #112D4E;
+    --white-color: #F9F7F7;
+    --first-color: #DBE2EF;
+}
